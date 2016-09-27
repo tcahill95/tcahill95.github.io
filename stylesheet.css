@@ -1,2 +1,35 @@
 
-h1 {text-align: center;}
+body {margin: 0;}
+
+h1 {text-align: center;
+ 	color: #ffffff;
+ 	background-color: #26637F;
+ 	padding: 5%;
+ 	font-family: Verdana;
+ 	margin-top: 0;
+ 	margin-bottom: 0;
+ 	background-size: cover;}
+
+p {text-align: center;
+	background-color: #133240;
+	border: none;
+	margin-top: 0; 
+	margin-bottom: 0;}
+
+h2 {background-color:#133240;
+	margin-top: 0;
+	margin-bottom: 0;}
+
+img {padding: 5%;}
+
+a {text-decoration: none;}
+
+a:hover {background-color: #3995BF;}
+
+.links {text-align: center;
+		color: white;
+		padding: 12%;
+	}
+
+
+
